@@ -1,6 +1,6 @@
 buf = new Buffer(256);  
 len = buf.write("Simply         Easy Learning");  
-
+buf = new Buffer(256);  
 
 console.log("Octets written : "+  len);  
 
